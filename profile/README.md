@@ -59,6 +59,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <br />
                 <img src="https://github-readme-stats.vercel.app/api?username=cthuch&show_icons=true" width="100%">
             </td>
+            </tr>
+            <tr>
             <td align="center">
                 <a href="#">
                     <img src="https://avatars.githubusercontent.com/u/88573482?v=4" width="100px;" alt="Kent C. Dodds"/>
