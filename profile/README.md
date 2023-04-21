@@ -19,6 +19,9 @@ iMsophat is a web application builder, components library. We believe developmen
 -   [`Thy Thary`](https://github.com/ThyThary) : Front End Developer
 -   [`Kol Heang`](https://github.com/KolHeang) : Backend and Front End Developer -->
 
+
+
+
 <table align="center">
     <tbody>
         <tr>
@@ -36,6 +39,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
                 <a href="https://github.com/iMSophat/anime/commits?author=pphatDev" title="Documentation">📖</a> 
                 <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%3pphatDev" title="Reviewed Pull Requests">👀</a> 
+                <br />
+                <img src="https://github-readme-stats.vercel.app/api?username=pphatDev&show_icons=true" width="100%">
             </td>
             <td align="center">
                 <a href="#">
@@ -51,6 +56,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
                 <a href="https://github.com/iMSophat/anime/commits?author=cthuch" title="Documentation">📖</a> 
                 <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%cthuch" title="Reviewed Pull Requests">👀</a> 
+                <br />
+                <img src="https://github-readme-stats.vercel.app/api?username=cthuch&show_icons=true" width="100%">
             </td>
             <td align="center">
                 <a href="#">
@@ -66,6 +73,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
                 <a href="https://github.com/iMSophat/anime/commits?author=ThyThary" title="Documentation">📖</a> 
                 <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%ThyThary" title="Reviewed Pull Requests">👀</a> 
+                <br />
+                <img src="https://github-readme-stats.vercel.app/api?username=ThyThary&show_icons=true" width="100%">
             </td>
             <td align="center">
                 <a href="#">
@@ -81,6 +90,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
                 <a href="https://github.com/iMSophat/anime/commits?author=KolHeang" title="Documentation">📖</a> 
                 <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%KolHeang" title="Reviewed Pull Requests">👀</a> 
+                <br />
+                <img src="https://github-readme-stats.vercel.app/api?username=KolHeang&show_icons=true" width="100%">
             </td>
         </tr>
     </tbody>
