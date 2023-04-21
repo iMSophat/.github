@@ -12,9 +12,76 @@ iMsophat is a web application builder, components library. We believe developmen
 - [Anime web application](https://github.com/iMSophat/anime).
 
 
-## Contributors
+## Contributers
 
--   [`Phat`](https://github.com/pphatDev) : Founder and Full Stack Developer
+<!-- -   [`Phat`](https://github.com/pphatDev) : Founder and Full Stack Developer
 -   [`Chhem Sithuch`](https://github.com/cthuch) : Backend and Backend Developer
 -   [`Thy Thary`](https://github.com/ThyThary) : Front End Developer
--   [`Kol Heang`](https://github.com/KolHeang) : Backend and Front End Developer
+-   [`Kol Heang`](https://github.com/KolHeang) : Backend and Front End Developer -->
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://leatsophat.me">
+                    <img src="https://avatars.githubusercontent.com/u/65520537?v=4" width="100px;" alt="Kent C. Dodds"/>
+                    <br />
+                    <sub>
+                        <a href="https://github.com/pphatDev"> 
+                            <b>Le. Sophat</b>
+                        </a>
+                    </sub>
+                </a>
+                <br />
+                <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
+                <a href="https://github.com/iMSophat/anime/commits?author=pphatDev" title="Documentation">📖</a> 
+                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%3pphatDev" title="Reviewed Pull Requests">👀</a> 
+            </td>
+            <td align="center">
+                <a href="#">
+                    <img src="https://avatars.githubusercontent.com/u/128199454?v=4" width="100px;" alt="Kent C. Dodds"/>
+                    <br />
+                    <sub>
+                        <a href="https://github.com/cthuch"> 
+                            <b>Chh. Sithuch</b>
+                        </a>
+                    </sub>
+                </a>
+                <br />
+                <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
+                <a href="https://github.com/iMSophat/anime/commits?author=cthuch" title="Documentation">📖</a> 
+                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%cthuch" title="Reviewed Pull Requests">👀</a> 
+            </td>
+            <td align="center">
+                <a href="#">
+                    <img src="https://avatars.githubusercontent.com/u/88573482?v=4" width="100px;" alt="Kent C. Dodds"/>
+                    <br />
+                    <sub>
+                        <a href="https://github.com/ThyThary"> 
+                            <b>Th. Thary</b>
+                        </a>
+                    </sub>
+                </a>
+                <br />
+                <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
+                <a href="https://github.com/iMSophat/anime/commits?author=ThyThary" title="Documentation">📖</a> 
+                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%ThyThary" title="Reviewed Pull Requests">👀</a> 
+            </td>
+            <td align="center">
+                <a href="#">
+                    <img src="https://avatars.githubusercontent.com/u/114801328?v=4" width="100px;" alt="Kent C. Dodds"/>
+                    <br />
+                    <sub>
+                        <a href="https://github.com/KolHeang"> 
+                            <b>Ko. Heang</b>
+                        </a>
+                    </sub>
+                </a>
+                <br />
+                <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
+                <a href="https://github.com/iMSophat/anime/commits?author=KolHeang" title="Documentation">📖</a> 
+                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%KolHeang" title="Reviewed Pull Requests">👀</a> 
+            </td>
+        </tr>
+    </tbody>
+</table>
