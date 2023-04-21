@@ -41,6 +41,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%3pphatDev" title="Reviewed Pull Requests">👀</a> 
                 <br />
                 <img src="https://github-readme-stats.vercel.app/api?username=pphatDev&show_icons=true" width="100%">
+                <br />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatDev&layout=compact" width="100%">
             </td>
             <td align="center">
                 <a href="#">
@@ -58,6 +60,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%cthuch" title="Reviewed Pull Requests">👀</a> 
                 <br />
                 <img src="https://github-readme-stats.vercel.app/api?username=cthuch&show_icons=true" width="100%">
+                <br />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cthuch&layout=compact" width="100%">
             </td>
             </tr>
             <tr>
@@ -77,6 +81,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%ThyThary" title="Reviewed Pull Requests">👀</a> 
                 <br />
                 <img src="https://github-readme-stats.vercel.app/api?username=ThyThary&show_icons=true" width="100%">
+                <br />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyThary&layout=compact" width="100%">
             </td>
             <td align="center">
                 <a href="#">
@@ -94,6 +100,8 @@ iMsophat is a web application builder, components library. We believe developmen
                 <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%KolHeang" title="Reviewed Pull Requests">👀</a> 
                 <br />
                 <img src="https://github-readme-stats.vercel.app/api?username=KolHeang&show_icons=true" width="100%">
+                <br />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolHeang&layout=compact" width="100%">
             </td>
         </tr>
     </tbody>
