@@ -19,7 +19,7 @@ iMsophat is a web application builder, components library. We believe developmen
 -   [`Thy Thary`](https://github.com/ThyThary) : Front End Developer
 -   [`Kol Heang`](https://github.com/KolHeang) : Backend and Front End Developer -->
 
-<table>
+<table align="center">
     <tbody>
         <tr>
             <td align="center">
